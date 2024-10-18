@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Application Multilingue</string>
+    <string name="welcome_message">Bienvenue dans lApplication Multilingue!</string>
+    <string name="change_language">Changer de Langue</string>
+</resources>
