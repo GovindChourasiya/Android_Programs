@@ -81,7 +81,7 @@
         <!-- </intent-filter> -->
         <!-- </activity> -->
         <activity
-            android:name=".ExplicitContent_First"
+            android:name=".Snackbar_Demo"
             android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
             android:exported="true">
             <intent-filter>
